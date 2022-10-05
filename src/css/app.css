@@ -1,0 +1,47 @@
+.main {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3%;
+    background-color: orange;
+    padding: 3%;
+}
+
+.titulo {
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    letter-spacing: 80pt;
+}
+
+.contenedor_x {
+    margin-left: auto;
+    margin-right: auto;
+    width: 110%;
+    margin-top: 3%;
+}
+
+.numero {
+    background-color: white;
+    text-align: center;
+    font-size: 300%;
+    height: 12vh;
+    margin-left: 2%;
+    margin-top: 1%;
+}
+
+.numero_contenido {
+    padding: 1%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+}
+
+.verificar {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 3%;
+    text-align: center;
+    border-radius: 20px;
+    border-color: white;
+}
