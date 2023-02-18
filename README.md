@@ -1,0 +1,1 @@
+A simple bingo game developed in TypeScript with a basic user interface and features such as manual number generation and basic player tracking. The game is easy to play and perfect for beginners, providing a fun and interactive way to pass the time. Its simplicity and ease of use make it accessible to all, regardless of their level of experience with bingo.
